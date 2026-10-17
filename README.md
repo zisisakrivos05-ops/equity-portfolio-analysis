@@ -22,7 +22,7 @@ out-of-sample backtesting and momentum sorts.
 git clone https://github.com/zisisakrivos05-ops/equity-portfolio-analysis.git
 cd equity-portfolio-analysis
 python equity_portfolio_analysis.py --demo        # synthetic data, no private file needed
-python equity_portfolio_analysis.py --selftest    # built-in unit tests
+python equity_portfolio_analysis.py --init repo--author"Zisis Akrivos" --repo-url https://github.com/USERNAME/equity-portfolio-analysis.git  # built-in unit tests
 python equity_portfolio_analysis.py --data data/your_file.xlsx --rf 0.03 --window-years 5
 ```
 
