@@ -4,7 +4,7 @@
 """
 Equity Portfolio Analysis
 =========================
-Author: Zisis
+Author: Zisis Akrivos
 Empirical asset-pricing toolkit for a monthly panel of stocks (single file, CLI).
 
 Analyses
