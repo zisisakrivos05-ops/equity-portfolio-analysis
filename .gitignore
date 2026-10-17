@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+# private / licensed data and generated outputs are never committed
+data/*
+!data/.gitkeep
+results/
