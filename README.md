@@ -19,7 +19,7 @@ out-of-sample backtesting and momentum sorts.
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/equity-portfolio-analysis.git
+git clone https://github.com/zisisakrivos05-ops/equity-portfolio-analysis.git
 cd equity-portfolio-analysis
 python equity_portfolio_analysis.py --demo        # synthetic data, no private file needed
 python equity_portfolio_analysis.py --selftest    # built-in unit tests
