@@ -5,7 +5,7 @@ monthly panel of stocks: from descriptive statistics to mean-variance optimisati
 out-of-sample backtesting and momentum sorts.
 
 > Originally written for the *Intelligent Methods for Financial Data Analysis* course (2026) and
-> refactored into a tested, documented tool. Author: Zisis
+> refactored into a tested, documented tool. Author: Zisis Akrivos
 
 ## What it does
 
